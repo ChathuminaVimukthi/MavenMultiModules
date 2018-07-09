@@ -5,5 +5,8 @@ public class ApiService {
         CoreService coreService = new CoreService();
         coreService.CoreService();
 
+        //print Some
+        coreService.PrintSome();
+
     }
 }
