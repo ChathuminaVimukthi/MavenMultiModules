@@ -14,4 +14,8 @@
 
 public class Test {
 
+    public void justTesting(){
+        System.out.println("Testing.......");
+    }
+
 }
